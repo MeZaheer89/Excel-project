@@ -6,7 +6,7 @@ This project is an Excel-based data analysis and visualization solution built us
 
 ## 📊 Project Overview
 
-- **Goal**: Analyze sales and profit performance across different regions, categories, and customer segments to uncover trends and support by using data from 24 to 26.
+- **Goal**: Analyze sales and profit performance across different regions, categories, and customer segments to uncover trends and support by using data from 2024 t 2026.
 - **Tools Used**: Microsoft Excel (Pivot Tables, Charts, Formulas, conditionals, Slicers)
 
 ---
@@ -24,7 +24,7 @@ This project is an Excel-based data analysis and visualization solution built us
   - Sales by Region over different years
   - Profit by Segment and Sub-Category
   - Monthly and yearly performance trends
-  - Top product
+  - Top product, etc
 
 ### 3. Dashboard Creation
 - Designed an interactive Excel dashboard including:
@@ -35,7 +35,7 @@ This project is an Excel-based data analysis and visualization solution built us
 ---
 
 ## 📁 Files Included
-- `Retail_Superstore_Sample_Dataset.xlsx`: Final version with cleaned data, pivot tables, and dashboard
+- `Retail_Superstore_Sample_Dataset.xlsx`: Final version with old data ,cleaned data, pivot tables, and dashboard
 
 ---
 
