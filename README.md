@@ -2,7 +2,9 @@
 
 This project is an Excel-based data analysis and visualization solution built using a sample retail dataset. It demonstrates the end-to-end process of transforming raw data into actionable business insights using Excel features like data cleaning, pivot tables, and interactive dashboards.
 
----
+
+![image](https://github.com/user-attachments/assets/8a61cc35-4b51-4d58-8ab9-5de5a4ca9450)
+
 
 ## 📊 Project Overview
 
